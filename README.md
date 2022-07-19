@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anilvarma045
 - 👀 I’m interested in ...Software Developement and testing 
-- 🌱 I’m currently learning ...  Automation Testing Engineer  
+- 🌱 Automation Test Engineer ...  Automation Testing Engineer  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...anilvarma045@gmail.com  
 
